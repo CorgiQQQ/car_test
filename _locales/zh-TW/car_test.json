@@ -16,25 +16,3 @@
     "dfplayer.setLoopFolder|block": "循環播放資料夾中歌曲，資料夾：%folderNum",
     "dfplayer.setVolume|block": "設定音量大小(0~48)：%volume"
 }
-{
-    "BitRacer.Motors.M_L|block": "左邊",
-    "BitRacer.Motors.M_R|block": "右邊",
-    "BitRacer.Motors.All|block": "全部",
-    "BitRacer.IR_Sensors.IR1|block": "紅外線1",
-    "BitRacer.IR_Sensors.IR2|block": "紅外線2",
-    "BitRacer.IR_Sensors.IR3|block": "紅外線3",
-    "BitRacer.IR_Sensors.IR4|block": "紅外線4",
-    "BitRacer.IR_Sensors.IR5|block": "紅外線5",
-    "BitRacer.LineColor.White|block": "白色",
-    "BitRacer.LineColor.Black|block": "黑色",
-    "BitRacer.LEDs.LED_R|block": "右邊",
-    "BitRacer.LEDs.LED_L|block": "左邊",
-    "BitRacer.LEDswitch.on|block": "開啟",
-    "BitRacer.LEDswitch.off|block": "關閉",
-    "BitRacer.motorRun|block": "馬達|%index|速度|%PWM",
-    "BitRacer.readIR|block": "讀取|%SensorID 感測器",
-    "BitRacer.readIR2|block": "讀取 第|%SensorID 顆 感測器",
-    "BitRacer.CalibrateBegin|block": "校正開始",
-    "BitRacer.CalibrateEnd|block": "校正結束|%Color (線)",
-    "BitRacer.readLine|block": "讀取線位置"
-}
