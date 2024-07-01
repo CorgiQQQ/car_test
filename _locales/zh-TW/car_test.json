@@ -14,8 +14,9 @@
     "dfplayer.folderPlay|block": "指定播放資料夾中歌曲，資料夾：%folderNum|檔名：%fileNum|　重覆播放：%myAns",
     "dfplayer.setLoop|block": "循環播放記憶卡中所有歌曲",
     "dfplayer.setLoopFolder|block": "循環播放資料夾中歌曲，資料夾：%folderNum",
-    "dfplayer.setVolume|block": "設定音量大小(0~48)：%volume",
-    
+    "dfplayer.setVolume|block": "設定音量大小(0~48)：%volume"
+}
+{
     "BitRacer.Motors.M_L|block": "左邊",
     "BitRacer.Motors.M_R|block": "右邊",
     "BitRacer.Motors.All|block": "全部",
